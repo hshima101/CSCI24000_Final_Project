@@ -1,0 +1,20 @@
+Goal:
+Create a program that can emulate a shop.
+The program should be able to hold multiple objects with
+the variables (Buy/Sale Price, Buy Price, Quantity).
+These objects will be stored in an arraylist that will hold 
+every single item that is created.
+
+Items that are sold will be recorded then stored on another
+array where a report can be made.
+
+After all items have been reported, the program will
+start asking the user to report sales. the user will see what 
+is in their inventory and then will be asked to report 
+what items were sold for that day. All of the items 
+reported will be placed in a different list that will be used to 
+calculate profits/losses, gross, inventory cost, and an average on items sold.
+
+this will be done using arraylists to keep track of all the
+items the user will put in their inventory and the items
+sold from the inventory. 
